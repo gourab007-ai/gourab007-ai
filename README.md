@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Gourab Ghosh</h1>
 <h3 align="center">A passionate AI, ML Enthusiast from India</h3>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" alt="Programmer GIF" />
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="3000" alt="Programmer GIF" />
 
 
 - 🔭 I’m currently working on **ML Stufs**
